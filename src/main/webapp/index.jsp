@@ -42,7 +42,7 @@
 						</div>
 						<nav>
 							<ul>
-								<li><a href="#about">Softmetrix</a></li>
+								<li><a href="#about">DEV GRANA</a></li>
 							</ul>
 						</nav>
 					</header>
@@ -61,7 +61,7 @@
 
 				<!-- Footer -->
 					<footer id="footer">
-						<p class="copyright">&copycopyrights; Designed by Meenachi</a>.</p>
+						<p class="copyright">&copycopyrights; </a>.</p>
 					</footer>
 
 			</div>
