@@ -42,7 +42,7 @@
 						</div>
 						<nav>
 							<ul>
-								<li><a href="#about">Softmetrix</a></li>
+								<li><a href="#about">TEST GRANA</a></li>
 							</ul>
 						</nav>
 					</header>
